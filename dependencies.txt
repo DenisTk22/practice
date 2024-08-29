@@ -4,7 +4,7 @@
         - переход в папку my-app: cd my-app
     - запуск приложения: npm start
 - mobx
-    - установка с использованием функциональных компонентов (-lite): npm i mobx mobx-react-lite
-    - установка с использованием классовых компонентов: npm i mobx mobx-react
+    - установка с поддержкой только функциональных компонентов (-lite): npm i mobx mobx-react-lite
+    - установка с поддержкой функциональных и классовых компонентов: npm i mobx mobx-react
 
 https://yandex.ru/video/preview/13375604541294298374
